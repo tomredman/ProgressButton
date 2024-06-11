@@ -1,4 +1,5 @@
 # ProgressButton Component
+![GitHub Repo stars](https://img.shields.io/github/stars/tomredman/ProgressButton)
 
 Created by [@redman](https://x.com/redman)
 
