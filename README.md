@@ -1,7 +1,8 @@
 # ProgressButton Component
 
 Created by [@redman](https://x.com/redman)
-If you like this, you'll love [Convex](https://github.com/get-convex).
+
+If you like this, you'll love [Convex](https://github.com/get-convex)!
 
 ## Overview
 
