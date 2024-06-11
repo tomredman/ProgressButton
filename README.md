@@ -4,17 +4,13 @@ Created by [@redman](https://x.com/redman)
 
 If you like this, you'll love [Convex](https://github.com/get-convex)!
 
-
-
-https://github.com/tomredman/ProgressButton/assets/4225378/c3f7a3cd-e2c7-401e-8e51-8ce9985a232c
-
-
-
 ## Overview
 
 The `ProgressButton` component is a versatile and customizable button that visually indicates progress through either manual or automatic updates. It's built with React and leverages the XState library to manage its state machine.
 
 This component builds upon the button provided by [shadcn/ui](https://ui.shadcn.com/docs/components/button), making it perfect for use cases where you need to show progress, such as file uploads, form submissions, or any asynchronous operations.
+
+https://github.com/tomredman/ProgressButton/assets/4225378/c3f7a3cd-e2c7-401e-8e51-8ce9985a232c
 
 ## Features
 
